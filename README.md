@@ -2,6 +2,7 @@
 <h3 align="center">Desarrolladora Frontend | Diseño & Tecnología | Innovación Digital</h3>
 
 <div align="center" style="margin-bottom: 1rem;">
+<div align="center" style="margin-bottom: 1rem;">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -9,9 +10,16 @@
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/Plesk-52B1E0?style=flat&logo=plesk&logoColor=white" />
+<img src="https://img.shields.io/badge/cPanel-E95420?style=flat&logo=cpanel&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+</div>
 </div>
 
 ---
