@@ -113,24 +113,3 @@ Soy una **desarrolladora frontend** con formación técnica en DAW y SMX. Me apa
 </div>
 
 ---
-
-<style>
-  body {
-    font-family: 'Segoe UI', system-ui, sans-serif;
-    line-height: 1.6;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
-    color: #334155;
-  }
-  h1, h2, h3 {
-    color: #1e40af;
-  }
-  a {
-    color: #2563eb;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
