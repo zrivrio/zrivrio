@@ -1,115 +1,120 @@
-# ¡Hola! Soy Zahira Rivas Ríos 👩‍💻  
-### *Desarrolladora Frontend | Diseño & Tecnología | Innovación Digital*
+<h1 align="center">¡Hola! Soy Zahira Rivas Ríos 👩‍💻</h1>
+<h3 align="center">Desarrolladora Frontend | Diseño & Tecnología | Innovación Digital</h3>
 
----
-
-<div style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); padding: 2rem; border-radius: 12px; color: white; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);">
-
-## 🌟 Sobre Mí  
-Soy una **desarrolladora frontend** con formación técnica en DAW y SMX. Me apasiona crear experiencias digitales intuitivas y visualmente impactantes, combinando código limpio con diseño atractivo. Busco oportunidades para crecer en equipos innovadores.
-
+<div align="center" style="margin-bottom: 1rem;">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </div>
 
 ---
 
-## 🛠 Stack Tecnológico  
+## 🌟 Sobre Mí
 
-### **Frontend**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</div>
-
-### **Backend & DB**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
-
-### **Herramientas**  
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 1rem 0;">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</div>
+Soy una desarrolladora **frontend** con formación técnica en **DAW** y **SMX**. Me apasiona crear experiencias digitales intuitivas y visualmente impactantes, combinando diseño con código limpio. Me considero una persona proactiva, resolutiva y con muchas ganas de seguir aprendiendo.
 
 ---
 
-## 🎓 Formación  
+## 🛠 Stack Tecnológico
 
-| 📚 Título | 🏫 Institución | 📅 Año |
-|-----------|---------------|-------|
-| **Grado Superior en DAW** | IES Belén | 2025 |
-| **Curso IA con Python** | Fundación Esplai | 2025 |
-| **Grado Medio en SMX** | IES Cánovas del Castillo | 2023 |
+### 🔹 Frontend
+- HTML · CSS · JavaScript  
+- Angular · Tailwind CSS · Bootstrap  
+- Figma · UX/UI  
+
+### 🔹 Backend & Base de Datos
+- Java · Spring Boot · JWT  
+- MySQL · MariaDB  
+
+### 🔹 Herramientas
+- Git · GitHub · Docker  
+- WordPress · PrestaShop · WooCommerce · Elementor  
 
 ---
 
-## 💼 Experiencia Profesional  
+## 🎓 Formación
 
-### **Shikoba** (2025)  
-*Desarrolladora Web Frontend*  
-- Desarrollo de interfaces con Angular  
+| Título                                | Institución              | Año  |
+|---------------------------------------|--------------------------|-------|
+| Grado Superior en Desarrollo Web (DAW)| IES Belén                | 2025 |
+| Curso de Inteligencia Artificial con Python | Fundación Esplai   | 2025 |
+| Grado Medio en Sistemas Microinformáticos (SMX) | IES Cánovas del Castillo | 2023 |
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🏢 Shikoba · Desarrolladora Web Frontend (2025)
+- Desarrollo de interfaces responsivas con Angular  
 - Optimización de rendimiento web  
-- Integración con APIs REST  
+- Integración con APIs REST
 
-### **Centoraggi** (2023)  
-*Técnica Informática (Italia)*  
+### 🏢 Centoraggi (Italia) · Técnica Informática (2023)
 - Soporte técnico multilingüe  
 - Gestión de redes y sistemas  
+- Diagnóstico y resolución de incidencias
 
 ---
 
-## 🏆 Proyecto Destacado  
+## 🏆 Proyecto Destacado: TFG
 
-<div style="background: #f0f9ff; padding: 1.5rem; border-radius: 10px; border-left: 4px solid #3b82f6;">
+<div style="background: #f0f9ff; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #3b82f6;">
 
-### **TFG: Plataforma Educativa Interactiva**  
-*Aplicación full stack para gestión de cursos con:*
-- **Frontend:** Angular + Tailwind  
-- **Backend:** Spring Boot + JWT  
-- **DevOps:** Docker + CI/CD  
+**🎓 Título:** Plataforma De Lectura
+Aplicación **full stack** para gestión de libros, usuarios, listas y progresos de lectura:
 
-🔗 **[Ver código](https://github.com/zrivrio/tfg)**  
+- 🔷 *Frontend:* Angular + Tailwind  
+- 🟢 *Backend:* Spring Boot + JWT  
+- ⚙️ *DevOps:* Docker + CI/CD  
+
+🔗 [Ver Código]((https://github.com/zrivrio/BookWave-TFG)) *(enlace opcional si está público)*
+
 </div>
 
 ---
 
-## 📊 Mis Estadísticas  
+## 📊 Mis Estadísticas
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=zrivrio&show_icons=true&theme=radical&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrivrio&layout=compact&theme=radical&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=zrivrio&show_icons=true&theme=blueberry&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrivrio&layout=compact&theme=blueberry&hide_border=true" />
 </div>
 
 ---
 
-## 🌐 Idiomas  
+## 🌐 Idiomas
 
-| Idioma | Nivel |
-|--------|-------|
-| Español | 🟢🟢🟢🟢🟢 Nativo |
-| Inglés | 🟢🟢🟢⚪⚪ B1 |
-| Italiano | 🟢🟢🟢⚪⚪ Intermedio |
+| Idioma   | Nivel             |
+|----------|------------------|
+| Español  | 🟢🟢🟢🟢🟢 Nativo      |
+| Inglés   | 🟢🟢🟢⚪⚪ B1           |
+| Italiano | 🟢🟢🟢⚪⚪ Intermedio    |
 
 ---
 
-## 📩 Contacto  
+## 📩 Contacto
 
 <div align="center">
   <a href="mailto:zahira21.rr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/zahira-rivas-rios">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/zrivrio">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
+
+<p align="center">
+✨ ¡Gracias por visitar mi perfil! Estoy abierta a nuevas oportunidades y proyectos tecnológicos 💙
+</p>
