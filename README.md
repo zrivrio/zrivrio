@@ -30,23 +30,6 @@ Soy una desarrolladora **frontend** con formación técnica en **DAW** y **SMX**
 
 ---
 
-## 🛠 Stack Tecnológico
-
-### 🔹 Frontend
-- HTML · CSS · JavaScript  
-- Angular · Tailwind CSS · Bootstrap  
-- Figma · UX/UI  
-
-### 🔹 Backend & Base de Datos
-- Java · Spring Boot · JWT  
-- MySQL · MariaDB  
-
-### 🔹 Herramientas
-- Git · GitHub · Docker  
-- WordPress · PrestaShop · WooCommerce · Elementor  
-
----
-
 ## 🎓 Formación
 
 | Título                                | Institución              | Año  |
