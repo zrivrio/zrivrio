@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Zahira Rivas Ríos 👩‍💻</h1>
+<h1 align="center">¡Hola! Soy Zahira Rivas Ríos</h1>
 <h3 align="center">Desarrolladora Frontend | Diseño & Tecnología | Innovación Digital</h3>
 
 <div align="center" style="margin-bottom: 1rem;">
